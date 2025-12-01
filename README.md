@@ -1,16 +1,116 @@
-## Hi there 👋
+# README
+# 🌟 **About Me**
 
-<!--
-**donsub8608/donsub8608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 나는 돈섭
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 **Work Experience**
+
+| **회사명**            | **직책**                  | **기간**                 | **주요 업무**                                                             |
+|----------------------|-------------------------|------------------------|---------------------------------------------------------------------------|
+| **회사명**        | 메롱          | 2025.02 ~ 현재      | -  무언가를 한다                                   |
+
+---
+
+## 🏆 **Extracurricular Activities**
+
+| **활동명**                | **기간**          | **주요 내용**                                               |
+|-------------------------|------------------|-----------------------------------------------------------|
+| **00**      | 2024.02 ~ 2024.08    | 00         |
+| **00** | 2023.12 ~ 2024.02       | 00               |
+
+---
+
+## 🛠️ **Skills**
+
+### 🤖 **AI/ML**  
+- **Frameworks**: 00
+- **Computer Vision**: 00
+- **NLP**: 00
+- **Signal Processing**: 00
+- **Time Series & EDA**: 00
+
+### 💻 **Languages & Frameworks**
+- **00**
+- **00**: 00
+
+### 🧰 **Development Tools**
+- Git/GitHub
+- Cursor/VSCode
+
+---
+
+## 📜 **Certifications**
+
+- 00 
+- 00
+
+---
+
+## 🎯 **Goals**
+
+1. **백엔드 전문성 강화**: 00  
+2. **프론트엔드 기술 습득**: 00 
+3. **기술 블로그 운영**: 00  
+4. **토이프로젝트**: 00
+5. **코딩테스트**: 00
+
+---
+
+## 📂 **Projects**
+
+### 🔹 **IoT 00**  
+- **기간**: 2025.02 ~ 현재
+- **주요역할**:
+  - IoT 음향 데이터 파이프라인 구축(수집→정제→특징추출)
+  - FFT/MEL 전처리 및 CNN 분류 모델 설계·학습·평가(E2E)
+  - 소음 환경 대응 데이터 증강·임계값 튜닝으로 정확도/재현성 향상
+- **기술 스택**: Python, TensorFlow/Keras, NumPy, Pandas, Librosa, scikit-learn
+  
+### 🔹 **00**
+- **기간**: 2025.05 ~ 현재
+- **주요역할**:
+  - 발전소 고소음 환경 적응형 누수 예측 모델 고도화
+  - 노이즈 분석·필터링(고/저주파), CNN 재학습, 리스크 스코어링 설계
+  - 수집–정제–특징화 파이프라인 개선으로 판별 안정성 및 현장 활용성 증대
+- **기술 스택**: Python, TensorFlow/Keras, NumPy, Pandas, Librosa
+
+### 🔹 **00**
+- **기간**: 2025.06 ~ 2025.08
+- **주요역할**:
+  - Whisper(STT) + LLM(OpenAI) + Playwright 연동 자연어 웹 제어 에이전트 구현
+  - 명령 파싱 → 동작 매핑 설계, 브라우저 자동화 플로우 구성
+  - 음성→프롬프트→액션 체인 최적화로 UX 안정성 검증
+- **기술 스택**: Python, OpenAI API, Whisper, Playwright
+
+### 🔹 **00**
+- **기간**: 2024.08 ~ 2025.01
+- **주요역할**:
+  - 리뷰 크롤링→전처리→감성분석→추천까지 NLP 파이프라인 구축
+  - ko-BERT 파인튜닝 및 Word2Vec 유사도 기반 추천 로직 구현
+  - 감성분석 정확도 56% → 95% 향상
+- **기술 스택**: Python, Transformers(ko-BERT), Selenium, Word2Vec, Pandas
+
+---
+
+## 🎓 **Education**
+
+- **AI 개발자 인재 양성과정** (수료, KT)  
+- **한국교통대학교 전자공학과** (졸업)  
+
+---
+
+## 🎯 **Goals**
+
+1. **백엔드 전문성 강화**: Java, Fast API 심화 학습  
+2. **기술 블로그 운영**: 학습 내용과 프로젝트 경험 공유  
+3. **토이프로젝트**: 코딩 능력 향상을 위한 클론코딩
+4. **코딩테스트**: 문제해결과정 기록 및 코딩테스트 대비
+   
+---
+
+## 📬 **Contact Me**
+
+- 📧 **Email**: goodguy5368@daum.net
+- 🌐 **Portfolio Website**: https://github.com/donsub8608
