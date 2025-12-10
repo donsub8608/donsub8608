@@ -10,16 +10,22 @@
 
 | **회사명**            | **직책**                  | **기간**                 | **주요 업무**                                                             |
 |----------------------|-------------------------|------------------------|---------------------------------------------------------------------------|
-| **(주)유림이엔지**        | 사원          | 2025.02 ~ 현재      | -  무언가를 한다                                   |
+| **(주)유림이엔지**   | 사원          | 2009.10 ~ 2015.01      | -  Microwave electrical equipment installation and PLC program                             |
+| **(주)파워써플라이** | 차장          | 2015.02 ~ 2020.01      | -  Microwave Utility Design and Construction Program Technical Sales                       |
+| **(주)세종이엠씨**   | 차장          | 2020.02 ~ 2022.08      | -  Microwave Utility Design and Construction Program Technical Sales                       |
+| **(주)한테크**       | 과장          | 2022.09 ~ 2023.12      | -  Coating machine automatic control electric field design, assembly, and manufacturing    |
+| **(주)글래스돔코리아**  | 매니저       | 2023.12 ~ 2024.08    | -  Design, commissioning, and outsourcing of factory energy monitoring for carbon emissions measurement    |
+| **(주)위플랫**       | 차장          | 2025.03 ~ 현재         | -  Equipment development and overseas business utility design    |
+
 
 ---
 
-## 🏆 **Extracurricular Activities**
+## 🏆 **Certificate**
 
-| **활동명**                | **기간**          | **주요 내용**                                               |
+| **자격증명**                | **취득일**          | **인증기간**                                               |
 |-------------------------|------------------|-----------------------------------------------------------|
-| **00**      | 2024.02 ~ 2024.08    | 00         |
-| **00** | 2023.12 ~ 2024.02       | 00               |
+| **전기공사기사**      | 2024.02 ~ 2024.08    | 한국산업인력공단         |
+| **전기기사** | 2023.12 ~ 2024.02       | 한국산업인력공단               |
 
 ---
 
@@ -68,30 +74,6 @@
   - FFT/MEL 전처리 및 CNN 분류 모델 설계·학습·평가(E2E)
   - 소음 환경 대응 데이터 증강·임계값 튜닝으로 정확도/재현성 향상
 - **기술 스택**: Python, TensorFlow/Keras, NumPy, Pandas, Librosa, scikit-learn
-  
-### 🔹 **00**
-- **기간**: 2025.05 ~ 현재
-- **주요역할**:
-  - 발전소 고소음 환경 적응형 누수 예측 모델 고도화
-  - 노이즈 분석·필터링(고/저주파), CNN 재학습, 리스크 스코어링 설계
-  - 수집–정제–특징화 파이프라인 개선으로 판별 안정성 및 현장 활용성 증대
-- **기술 스택**: Python, TensorFlow/Keras, NumPy, Pandas, Librosa
-
-### 🔹 **00**
-- **기간**: 2025.06 ~ 2025.08
-- **주요역할**:
-  - Whisper(STT) + LLM(OpenAI) + Playwright 연동 자연어 웹 제어 에이전트 구현
-  - 명령 파싱 → 동작 매핑 설계, 브라우저 자동화 플로우 구성
-  - 음성→프롬프트→액션 체인 최적화로 UX 안정성 검증
-- **기술 스택**: Python, OpenAI API, Whisper, Playwright
-
-### 🔹 **00**
-- **기간**: 2024.08 ~ 2025.01
-- **주요역할**:
-  - 리뷰 크롤링→전처리→감성분석→추천까지 NLP 파이프라인 구축
-  - ko-BERT 파인튜닝 및 Word2Vec 유사도 기반 추천 로직 구현
-  - 감성분석 정확도 56% → 95% 향상
-- **기술 스택**: Python, Transformers(ko-BERT), Selenium, Word2Vec, Pandas
 
 ---
 
@@ -100,15 +82,6 @@
 - **AI 개발자 인재 양성과정** (수료, KT)  
 - **한국교통대학교 전자공학과** (졸업)  
 
----
-
-## 🎯 **Goals**
-
-1. **백엔드 전문성 강화**: Java, Fast API 심화 학습  
-2. **기술 블로그 운영**: 학습 내용과 프로젝트 경험 공유  
-3. **토이프로젝트**: 코딩 능력 향상을 위한 클론코딩
-4. **코딩테스트**: 문제해결과정 기록 및 코딩테스트 대비
-   
 ---
 
 ## 📬 **Contact Me**
