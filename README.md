@@ -67,15 +67,6 @@
 - **Raspberry Pi 엣지 서버** — 로컬 LLM 운영
 - **정부 R&D** — 딥테크 TIPS / 포스트 TIPS / OI 사업
 
----
-
-## 주요 저장소
-
-| Repo | 설명 | 스택 | 공개 |
-|---|---|---|---|
-| IBS | IBS 사업 시스템 | TypeScript | 공개 |
-| IBS_OCR_Camera | OCR 카메라 검침 | C++ | 공개 |
-| ESP32-Cam | ESP32 카메라 펌웨어 | C | 공개 |
 
 ---
 
