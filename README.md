@@ -31,7 +31,8 @@
 
 - 자동제어 시스템 설계 · **PLC (LS산전)** / **HMI (M2I, LS산전)** 프로그래밍
 - 자동화 / 전기 판넬 제작 · 시운전 (현장)
-- 전기설계 (S마크 기준) — BOM · 계통도 · 상세회로도 · 3D 외함 / 내판 (SolidWorks)
+- 전기설계 (S마크 기준) — BOM · 계통도 · 상세회로도 (**SolidWorks Electrical**)
+- 3D 외함 / 내판 — 제어반 / 판넬 (SolidWorks)
 - 기구 보조 설계 — 제품 / 장비 외형 · 프레임 (SolidWorks)
 - **아날로그 회로 설계** — 압전소자 센서 보드 / 누수음 신호 처리 (저잡음 / OPAMP)
 - 누수음 탐지 · 신호 분석
@@ -43,10 +44,12 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=flat&logo=freecad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
+![SolidWorks Electrical](https://img.shields.io/badge/SolidWorks%20Electrical-FF6347?style=flat&logo=dassaultsystemes&logoColor=white)
 
 - **전자회로 / PCB 분석** — KiCad
 - **물성 / 구조 분석 (FEM)** — FreeCAD
-- **기구 / 전기 외함 설계** — SolidWorks
+- **기구 / 외함 설계** — SolidWorks
+- **전기 회로도 / 계통도** — SolidWorks Electrical
 
 ## 주 사용 프로그램
 
@@ -118,7 +121,7 @@
 ### ㈜글래스돔 코리아 (2023 ~ 2024) — PCF (Product Carbon Footprint) 모니터링 시스템 구축
 
 - **조일알미늄 · 롯데알미늄** 탄소발자국 모니터링 시스템 구축 공사
-- **하도급사 관리** · 현장 감독
+- **하도급사 TSENG 관리** · 현장 감독
 - **PLC 기반 DAQ (데이터 수집)** 직접 수행
 - 탄소국경조정(CBAM) 대응 인프라 구축 흐름
 
