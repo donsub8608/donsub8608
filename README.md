@@ -15,7 +15,7 @@
 | **기술** | 회로 · 펌웨어 · 기계설계 · Python 분석 · Jetson 엣지 · Unity AR · 로컬 LLM |
 | **사업화** | 정부 R&D 30+ 과제 (TIPS / D-유니콘 / OI / K-water 등) 기획 · 수주 · 실행 |
 | **글로벌** | 멕시코 · 키르기스스탄 · 탄자니아 · 태국 · 미국 · 인도네시아 — 6개국+ |
-| **AI 활용** | Claude 페어 / Python 자동화 / 로컬 LLM — AI를 도구가 아니라 인프라로 |
+| **AI 활용** | Claude 페어 / Colab / 로컬 LLM — AI를 도구가 아니라 인프라로 |
 
 ---
 
@@ -31,9 +31,19 @@
 
 - 자동제어 시스템 설계 · PLC / HMI 프로그래밍
 - 전기설계 (S마크 기준) · 전기공사
+- **아날로그 회로 설계** — 압전소자 센서 보드 / 누수음 신호 처리 (저잡음 / OPAMP)
 - 누수음 탐지 · 신호 분석
 - 마이크로파 장비 설계
-- SolidWorks 모델링 · PCB 설계
+
+## 설계 도구
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=flat&logo=freecad&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
+
+- **전자회로 / PCB 분석** — KiCad
+- **물성 / 구조 분석 (FEM)** — FreeCAD
+- **기구 설계** — SolidWorks
 
 ## AI 협업으로 다루는 영역
 
@@ -54,6 +64,9 @@
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+> Claude Code 페어 프로그래밍 + Colab으로 모델 실험 → Raspberry Pi 로컬 LLM 운영
 
 ---
 
@@ -66,7 +79,6 @@
 - **QGIS 상수도관망 분석기** — Python 기반 관망 정비 / 유속 시각화 도구
 - **Raspberry Pi 엣지 서버** — 로컬 LLM 운영
 - **정부 R&D** — 딥테크 TIPS / 포스트 TIPS / OI 사업
-
 
 ---
 
