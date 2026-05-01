@@ -45,20 +45,30 @@
 - **물성 / 구조 분석 (FEM)** — FreeCAD
 - **기구 설계** — SolidWorks
 
+## 주 사용 프로그램
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+
+- **AR / 3D** — Unity
+- **펌웨어 / 임베디드** — Arduino IDE
+- **모바일 / 앱** — Android Studio
+- **GIS / 관망 분석** — QGIS
+
 ## AI 협업으로 다루는 영역
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
-펌웨어 · 임베디드 · 데이터 분석 · GIS 자동화 · AR 시각화 · 엣지 LLM 운영
+데이터 분석 · GIS 자동화 · AR 스크립팅 · 펌웨어 / 임베디드 · 엣지 LLM 운영
 
 ## 주력 AI 도구
 
