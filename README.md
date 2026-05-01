@@ -1,150 +1,90 @@
 # 이돈섭 (Lee Don Sub)
 
-> 자동화 설계 · 계측 제어 설계 · 마이크로웨이브 설계 전문가
+> **자동제어 15년차 도메인 엔지니어 + AI 활용 R&D**
+> 도메인 전문성과 AI 협업으로 하드웨어 설계부터 펌웨어 / 데이터 분석까지 직접 끝낸다
 
-자동제어 분야 **15년차** 엔지니어로, 무언가를 배울 수 있는 환경을 선호하며, 
-계획을 세워 책임감 있게 일을 끝내는 것을 원칙으로 합니다.
-
-현재는 AI를 활용한 펌웨어 개발, 서버 구축 및 데이터 분석 
-그리고 시제품 설계 제작, 기계 기구 시스템 설계를 주로 하고 있습니다.
+㈜위플랫 AI연구소 차장 (2025년~) · 누수탐지 디바이스 R&D, 스마트캡슐 개발, 펌웨어 / 임베디드, 데이터 분석
 
 ---
 
-## 📇 Contact
+## 일하는 방식
 
-| 항목 | 내용 |
-|---|---|
-| 생년월일 | 1986년 8월 8일 |
-| 병역 | 병장 만기 제대 |
-| 전화 | 010-9337-9862 |
-| 이메일 | goodguy5368@hanmail.net |
+- **도메인 지식이 본업** — 자동제어, 전기설계, 누수탐지, 계측제어 15년
+- **AI로 실행 범위를 확장** — Python 분석, 펌웨어, Unity AR, OCR, 자동화 스크립트까지 AI 협업으로 직접 구현
+- **결과 중심** — 외주 / 분업 없이 기획 → 설계 → 구현 → 현장 검증까지 한 사이클을 자체 완결
 
 ---
 
-## 🎓 학력
+## 전문 분야 (직접 수행)
 
-| 연도 | 내용 |
-|---|---|
-| 2010 | 충북인력개발원 전기과 졸업 |
-| 2013 | 한밭대학교 전자과 편입 졸업 |
-
----
-
-## 💼 경력 타임라인
-
-| 기간 | 회사 | 직급 | 담당 업무 |
-|---|---|---|---|
-| 2009 ~ 2015 | ㈜유림이엔지 | 사원 | MW 응용 설비, 자동화 판넬 |
-| 2015 ~ 2020 | ㈜파워써플라이 | 차장 | MW 응용 설비, 자동화 판넬, 기타 사무업무 |
-| 2020 ~ 2022 | ㈜세종이엠씨 | 차장 | MW 응용 설비, 자동화 판넬 |
-| 2022 ~ 2023 | ㈜한테크 | 과장 | 전기판넬 제작 시운전 |
-| 2023 ~ 2024 | ㈜글래스돔 코리아 | 매니저 | PCF 관련 현장 시공 관리 |
-| 2025 ~ 현재 | ㈜위플랫 | 차장 (AI연구소) | 누수탐사 기기 R&D, 스마트캡슐, 펌웨어/임베디드, 데이터 분석 |
+- 자동제어 시스템 설계 · PLC / HMI 프로그래밍
+- 전기설계 (S마크 기준) · 전기공사
+- 마이크로파 장비 설계
+- 누수음 탐지 · 신호 분석
+- SolidWorks 모델링 · PCB 설계
 
 ---
 
-## 🏢 현재 업무 — ㈜위플랫 AI연구소 (2025. ~ )
+## AI 협업으로 다루는 영역
 
-### 누수탐사 기기 고도화
-- **누수 감지 센서 고도화**: 상수도관 누수 탐지용 음향 센서 기기 개선
-  - 압전소자 개선(Single/Two Piezo, 방수 모델), 보드 최적화 테스트(스프링 고정·자석 고정·고무 패킹)
-  - 전자회로도 설계 및 제품 케이스 설계
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
-### 스마트캡슐 프로젝트
-- 상수도관 내부 관찰용 카메라 캡슐 기구 및 부품 설계
-- 영상 수집 및 누수음 수집 시스템 통합, 분해조립 지그 개발
-- 회수장치 설계, 홍보 영상 및 렌더링 제작
-
-### 기계 기구 전기 시스템 설계
-- 스마트캡슐 가상 시험 시스템 설계
-- 물순환 시스템 배관 설계 및 전장 설계
-- 카메라 OCR 판독 시스템 개발, Modbus 통신 시스템 설계
-- 수도계량기 OCR 판독 장비 설계 제작
-
-### 소프트웨어 및 데이터 분석
-- **QGIS Water Analyzer**: 상수도 관망 데이터 자동 정리 및 EPANET 시뮬레이션 도구 개발 (Python, NetworkX)
-- **Raspberry Pi 5 서버 구축**: Ubuntu / Docker / SSH / VPN / Nginx 기반 시스템 아키텍처 설계·문서화
-- 음원(누수음) 분석 시스템 개발
-
-### 신규 제품 개발 및 R&D 과제
-- 스마트밸브, GPR 누수탐사 등 신규 사업 참여
-- 정부 지원사업 R&D 과제 수행 (딥테크팁스, 포스트팁스, 창업성장기술개발사업, 민간협력오픈이노베이션(대상수상) 등)
+펌웨어 · 임베디드 · 데이터 분석 · GIS 자동화 · AR 시각화 · 엣지 LLM 운영
 
 ---
 
-## 📂 주요 프로젝트
+## 주력 AI 도구
 
-### 🔹 마이크로웨이브 소성로
-- **기간**: 2010.02 ~ 2010.06
-- **주요역할**:
-  - 전기시스템 설계 프로그램 시운전
-  - 소성로 결과물 데이터 산출
-- **기술 스택**: 전기관련한것들
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
 
-### 🔹 마이크로웨이브 플라즈마
-- **기간**: 2011.05 ~ 2011.11
-- **주요역할**:
-  - 전기시스템 설계 프로그램 시운전
-  - 플라즈마 안정화 테스트
-- **기술 스택**: 에너지공학 전기공학
-
-### 🔹 마이크로웨이브 준불연 건축자재 개발
-- **기간**: 2020.05 ~ 2022.08
-- **주요역할**:
-  - 함침 건조 준불연 테스트 장비 개발
-  - 물성 테스트 및 준불연 테스트
-- **기술 스택**: 전기공학
+> Claude Code 기반 페어 프로그래밍으로 폴더 단위 R&D를 실행
 
 ---
 
-## 🛠️ 업무 역량
+## 현재 진행 중
 
-### 컴퓨터 활용 능력
-- **솔리드웍스 (SolidWorks)** — 50%
-- **PLC / HMI** — 40%
-- **오토캐드 (AutoCAD)** — 5%
-- **PPT / EXCEL** — 5%
-
-### 프로그램 관련
-- **PLC**: LS산전
-- **HMI**: M2I, LS산전
-
-### 전기 설계
-- S-마크 기준 설계
-- BOM / 계통도 / 상세회로도 작성
-- 3D 전기 설계 (전기외함, 전기내판)
-
-### 기구 설계
-- 3D 기구 보조 설계 (제품설계, 장비설계)
-
-### 펌웨어 / 임베디드 (위플랫 이후)
-- ESP32, ESP32-CAM, ARM 기반 임베디드 펌웨어 개발
-- IoT 통신, Modbus 프로토콜
-
-### 소프트웨어 / 데이터 분석 (위플랫 이후)
-- Python (NetworkX, QGIS 연동, EPANET 시뮬레이션)
-- Linux 서버 구축 (Raspberry Pi, Ubuntu, Docker, Nginx, VPN)
-- 음원(누수음) 신호 분석
+- **상수도배관 증강현실** — Unity 기반 매설 배관 시각화
+- **통합관리시스템** — Jetson AGX Orin 엣지 디바이스
+- **스마트캡슐 R&D** — 배관 내부 영상 / 음향 수집 캡슐, 회수장치, 분해조립 지그
+- **IBS 사업** — 해외 현장 시스템 개발 (펌웨어 + OCR 카메라)
+- **QGIS 상수도관망 분석기** — Python 기반 관망 정비 / 유속 시각화 도구
+- **Raspberry Pi 엣지 서버** — 로컬 LLM 운영
+- **정부 R&D 다수** — 딥테크 TIPS / 포스트 TIPS / OI 사업
 
 ---
 
-## 📜 자격증 및 교육
+## 주요 저장소
 
-- EMS 고급 과정 수료
-- 전기 기사
-- 전기 공사 기사
-
----
-
-## 🧰 보유 공구 및 계측기
-
-| 구분 | 내역 |
-|---|---|
-| 수동 공구류 | 전기 관련 수공구 |
-| 전동 공구류 | 전동 드릴, 그라인더, 임팩 머신 |
-| 계측기류 | 오실로스코프, 전류메타, 전압메타, 아날로그메타, 절연접지 테스터기, 스마트폰용 열화상카메라, 라벨프린터 |
+| Repo | 설명 | 스택 |
+|---|---|---|
+| [IBS](https://github.com/donsub8608/IBS) | IBS 사업 시스템 | TypeScript |
+| [IBS_OCR_Camera](https://github.com/donsub8608/IBS_OCR_Camera) | OCR 카메라 검침 | C++ |
+| [ESP32-Cam](https://github.com/donsub8608/ESP32-Cam) | ESP32 카메라 펌웨어 | C |
 
 ---
 
-## 🎯 취미
-헬스, 러닝, 드라이브, 자전거
+## 경력 & 학력
+
+- **㈜위플랫 AI연구소** 차장 — 2025년~
+- 자동제어 분야 15년 (계측제어 설계, 자동화 설계, 마이크로파 설계)
+- 한밭대학교 전자과 졸업 (2013)
+- 전기공학 직업훈련 수료 (2010)
+
+## 자격증
+
+- 전기기사
+- 전기공사기사
+
+---
+
+> "무언가를 배울 수 있는 환경을 선호하며, 계획을 세워 책임감 있게 일을 끝내는 것"
