@@ -29,7 +29,7 @@
 
 ## 전문 분야 (직접 수행)
 
-- 자동제어 시스템 설계 · **PLC (LS산전)** / **HMI (M2I, LS산전)** 프로그래밍
+- 자동제어 시스템 설계 · **PLC (LS산전)** / **HMI (LS산전)** 프로그래밍
 - 자동화 / 전기 판넬 제작 · 시운전 (현장)
 - 전기설계 (S마크 기준) — BOM · 계통도 · 상세회로도 (**SolidWorks Electrical**)
 - 3D 외함 / 내판 — 제어반 / 판넬 (SolidWorks)
@@ -53,11 +53,15 @@
 
 ## 주 사용 프로그램
 
+![XG5000](https://img.shields.io/badge/XG5000-LS산전%20PLC-003876?style=flat)
+![XP-Builder](https://img.shields.io/badge/XP--Builder-LS산전%20HMI-0066B3?style=flat)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
+- **PLC 프로그래밍** — XG5000 (LS산전)
+- **HMI 작화** — XP-Builder (LS산전)
 - **AR / 3D** — Unity
 - **펌웨어 / 임베디드** — Arduino IDE
 - **모바일 / 앱** — Android Studio
